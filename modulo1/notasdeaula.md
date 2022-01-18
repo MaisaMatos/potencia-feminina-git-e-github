@@ -1,5 +1,7 @@
 ## Notas de aula referentes ao módulo 1 do curso Git e Github da Potência Feminina
 
-### nota 1
+### instalação do Git
 
-### nota 2
+### configuração do Git
+
+### comandos

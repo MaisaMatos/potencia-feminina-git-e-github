@@ -10,3 +10,5 @@ Adiciona um arquivo específico à esteira de commit, mas para isso, é preciso 
 
 ### git add .
 Adiciona todos os arquivos para a esteira de commit
+
+### git commit 
